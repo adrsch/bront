@@ -1,8 +1,11 @@
+- `0`, `i`, & `l` from standard DejaVu Sans Mono
+- Modified, more humanist `~` 
+
 # Bront
 
 Bront is a collection of tweaked fonts geared towards programming.
 
-## DejaVu Sans Mono - Bront
+## DejaVu Sans Mono - Bront@!@#$%
 
 Screenshot:
 
