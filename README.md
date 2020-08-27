@@ -1,7 +1,7 @@
 # Modification of modification of DejaVu Sans Mono
 
 - `0`, `i`, & `l` from standard DejaVu Sans Mono
-- More humanist `~` 
+- Tweaked `~` 
 
 Screenshots:
 
